@@ -1,50 +1,46 @@
 # Hi, I'm İlteriş
 
-Head Developer at KEK Studio.
+Head Developer @ KEK Studio
 
 I build browser-based multiplayer games and real-time backend systems.
 
-## Tech
+## Tech Stack
 
-- JavaScript
-- TypeScript
+- JavaScript / TypeScript
 - Node.js
 - Three.js
 - PostgreSQL
 - Prisma
 - Docker
 - Cloudflare
-
-## Live Projects
-
-### Haylord
-
-Browser MMORPG
-
-Status:
-🟢 Live
-
-Responsibilities
-
-- Backend
-- Multiplayer
 - WebSockets
-- Game Systems
-- Anti-Cheat
 
-(Source code is private.)
+## Featured Projects
+
+### 🌾 Haylord (Live)
+Browser-based multiplayer farming MMO.
+
+**Responsibilities**
+- Multiplayer backend
+- Real-time networking
+- Anti-cheat systems
+- Economy & gameplay systems
+
+**Tech**
+Node.js · Three.js · WebSockets · PostgreSQL
+
+> Source code is private due to commercial ownership.
 
 ---
 
-### King's Tomb
+### 👑 King's Tomb (Completed)
+A season-based browser MMORPG developed by KEK Studio.
 
-Season-based MMORPG
+**Responsibilities**
+- Server architecture
+- Real-time multiplayer systems
+- Anti-cheat
+- Game economy
+- Deployment & infrastructure
 
-Status:
-🟢 Live
-
-Responsibilities
-
-- Architecture
-- Networking
-- Server Infrastructure
+> The project has concluded. Source code remains private.
