@@ -27,7 +27,7 @@ Browser-based multiplayer farming MMO.
 - Economy & gameplay systems
 
 **Tech**
-Node.js · Three.js · WebSockets · PostgreSQL
+Node.js · Pixi.js · WebSockets · PostgreSQL ·
 
 > Source code is private due to commercial ownership.
 
@@ -43,4 +43,8 @@ A season-based browser MMORPG developed by KEK Studio.
 - Game economy
 - Deployment & infrastructure
 
+**Tech**
+Node.js · Three.js · WebSockets · PostgreSQL · 
+
+> Source code is private due to commercial ownership.
 > The project has concluded. Source code remains private.
