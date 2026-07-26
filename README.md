@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm İlteriş
 
-<!--
-**kaosa-dev/kaosa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Head Developer at KEK Studio.
 
-Here are some ideas to get you started:
+I build browser-based multiplayer games and real-time backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+- JavaScript
+- TypeScript
+- Node.js
+- Three.js
+- PostgreSQL
+- Prisma
+- Docker
+- Cloudflare
+
+## Live Projects
+
+### Haylord
+
+Browser MMORPG
+
+Status:
+🟢 Live
+
+Responsibilities
+
+- Backend
+- Multiplayer
+- WebSockets
+- Game Systems
+- Anti-Cheat
+
+(Source code is private.)
+
+---
+
+### King's Tomb
+
+Season-based MMORPG
+
+Status:
+🟢 Live
+
+Responsibilities
+
+- Architecture
+- Networking
+- Server Infrastructure
