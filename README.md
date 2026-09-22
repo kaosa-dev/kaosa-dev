@@ -1,11 +1,12 @@
 <h1 align="center">İlteriş Günay</h1>
 
 <p align="center">
-  <b>Co-founder @ 352 Interactive</b><br>
+  <b>Co-founder @ <a href="https://352interactive.com">352 Interactive</a></b><br>
   Real-time multiplayer backends · browser MMOs · Unity developer tooling
 </p>
 
 <p align="center">
+  <a href="https://352interactive.com"><img src="https://img.shields.io/badge/352interactive.com-0d1117?style=flat-square&logo=safari&logoColor=white&labelColor=0d1117" alt="Website"></a>
   <a href="https://x.com/ilterisgunay"><img src="https://img.shields.io/badge/X-@ilterisgunay-0d1117?style=flat-square&logo=x&logoColor=white&labelColor=0d1117" alt="X"></a>
   <a href="mailto:kaosacontact@gmail.com"><img src="https://img.shields.io/badge/Contact-kaosacontact-0d1117?style=flat-square&logo=maildotru&logoColor=white&labelColor=0d1117" alt="Email"></a>
   <img src="https://img.shields.io/badge/İstanbul-Türkiye-0d1117?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="İstanbul, Türkiye">
