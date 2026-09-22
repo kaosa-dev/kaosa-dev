@@ -1,7 +1,7 @@
 <h1 align="center">İlteriş Günay</h1>
 
 <p align="center">
-  <b>Head Developer @ KEK Studio</b><br>
+  <b>Co-founder @ 352 Interactive</b><br>
   Real-time multiplayer backends · browser MMOs · Unity developer tooling
 </p>
 
@@ -65,7 +65,7 @@ Multiplayer backend, real-time networking, anti-cheat, economy & gameplay system
 </details>
 
 <details>
-<summary><b>King's Tomb</b> — season-based browser MMORPG · completed</summary>
+<summary><b>King's Tomb</b> — season-based browser MMORPG · KEK Studio · completed</summary>
 
 <br>
 
