@@ -26,9 +26,9 @@ anti-cheat, and a commercial Unity extension used for localization QA.
 
 ## Selected work
 
-### Screw It · in development
+### [Screw It](https://github.com/kaosa-dev/screw-it) · in development
 
-A Turkish-language voice party game for 4–8 players, ~25 minutes. First person, a 1970s TV
+A voice party game for 4–8 players, ~25 minutes. First person, a 1970s TV
 studio, everyone in their own booth — and no menus anywhere: the CRT on your desk, the ON AIR
 sign, the red button and the telephone are the whole interface.
 
@@ -40,7 +40,7 @@ market sit on top.
 
 <br>
 
-### Ludus · in development
+### [Ludus](https://github.com/kaosa-dev/ludus) · in development
 
 Server-authoritative online gladiator management and arena game. A TypeScript monorepo built
 around a pure-TS core shared by client and server — every fight and every coin resolves
