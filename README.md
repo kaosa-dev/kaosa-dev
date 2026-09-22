@@ -25,6 +25,31 @@ anti-cheat, and a commercial Unity extension used for localization QA.
 
 ## Selected work
 
+### Screw It · in development
+
+A Turkish-language voice party game for 4–8 players, ~25 minutes. First person, a 1970s TV
+studio, everyone in their own booth — and no menus anywhere: the CRT on your desk, the ON AIR
+sign, the red button and the telephone are the whole interface.
+
+A card turns over, players bid on how many they can name, someone calls it, the claimant
+performs live on the mic, and a drawn jury counts and votes. Penalty cards and a sabotage
+market sit on top.
+
+`Unity 6` `C#` `URP` `Epic Online Services` `P2P netcode` `in-game voice chat`
+
+<br>
+
+### Ludus · in development
+
+Server-authoritative online gladiator management and arena game. A TypeScript monorepo built
+around a pure-TS core shared by client and server — every fight and every coin resolves
+server-side; the client only plays the result back. Real-time PvP matchmaking, with an NPC
+fallback when no opponent shows up in time.
+
+`TypeScript` `Phaser 3` `Node` `Express` `Prisma` `Colyseus` `Vitest`
+
+<br>
+
 ### [realtime-game-server](https://github.com/kaosa-dev/realtime-game-server) · open source
 
 Server-authoritative multiplayer backend — auth, lobbies, 20 TPS sessions, inventory/economy,
@@ -52,7 +77,7 @@ No crash server, no account, no background uploader — reports exist only when 
 <br>
 
 <details>
-<summary><b>Haylord</b> — browser-based multiplayer farming MMO · live</summary>
+<summary><b>Haylord</b> — browser-based multiplayer farming MMO · KEK Studio · live</summary>
 
 <br>
 
@@ -90,6 +115,7 @@ Server architecture, real-time multiplayer systems, anti-cheat, game economy, de
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Colyseus](https://img.shields.io/badge/Colyseus-2D3748?style=flat-square&logo=colyseus&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
@@ -98,6 +124,7 @@ Server architecture, real-time multiplayer systems, anti-cheat, game economy, de
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![PixiJS](https://img.shields.io/badge/PixiJS-E22162?style=flat-square&logo=pixiv&logoColor=white)
+![Phaser](https://img.shields.io/badge/Phaser-8E44AD?style=flat-square&logo=phaser&logoColor=white)
 
 **Infra**<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
